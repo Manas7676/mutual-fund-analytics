@@ -1,0 +1,11 @@
+MUTUAL FUND ANALYTICS - BUSINESS INSIGHTS
+============================================================
+
+Top Performing Fund (5-Year Return):
+ABSL Small Cap Fund - Regular - Growth (23.8%)
+
+Lowest Expense Ratio Fund:
+Nippon India Gilt Securities Fund - Regular - Growth (0.55%)
+
+Highest AUM Fund:
+Mirae Asset Emerging Bluechip Fund - Regular - Growth (Rs. 49046 Crore)
